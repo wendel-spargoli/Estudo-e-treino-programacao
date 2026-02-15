@@ -28,5 +28,5 @@ Para este projeto, simulei um cenário real de desenvolvimento baseado em um bri
 *Desenvolvido por Wendel - Estudante de Sistemas de Informação.*
 
 ## Observações
-Para o presente projeto foi utilizado a Inteligência Artifical do Gemini para estruturação do tema (briefing) e preenchimento dos textos de complementação (conteúdo).
+Para o presente projeto foi utilizado a Inteligência Artificial (Gemini) para estruturação do tema (briefing) e preenchimento dos textos de complementação (conteúdo).
 O intuito do presente projeto é o exercício da aplicação da estutura de marcação HTML, portanto, o conteúdo sobre o RPG foi gerado por inteligência artificial e pode conter erros.
