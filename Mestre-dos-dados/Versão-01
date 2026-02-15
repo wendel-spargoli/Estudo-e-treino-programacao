@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta lang="pt-br">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Mestre dos dados</title>
+</head>
+
+<body>
+    <header>
+        <section><!--Cabeçalho e navegação-->
+            <h1>Portal Mestre dos dados</h1>
+            <h2>Uma experiência didática para iniciantes em RPG</h2>
+        </section>
+        <!--Necessário ainda fazer "Menu de navegação funcional utilizando âncoras internas para as seções da página."-->
+    </header>
+
+    <main><!--Início do conteúdo-->
+        <section><!--Introdução do conteúdo-->
+            <article>
+                <h3>Introdução ao teatro da mente</h3>
+                <h4>O que é o RPG e o "Teatro da Mente"?</h4>
+                <p>O Role-Playing Game, ou simplesmente RPG, é uma forma de contar histórias onde você não é apenas um
+                    espectador, mas o protagonista. Diferente de um jogo de tabuleiro comum ou um videogame com caminhos
+                    pré-definidos, o RPG funciona através de uma construção coletiva. É um exercício de criatividade
+                    onde um grupo de amigos se reúne para vivenciar aventuras em mundos imaginários, guiados por regras
+                    que ajudam a determinar o sucesso ou o fracasso de suas ações.</p>
+
+                <p>O coração dessa experiência é o chamado "Teatro da Mente". Esse termo descreve a capacidade dos
+                    jogadores de visualizarem cenários, personagens e batalhas épicas sem a necessidade de recursos
+                    visuais complexos ou computação gráfica. No RPG, a maior parte da ação acontece dentro da imaginação
+                    de cada participante, estimulada pelas descrições detalhadas do narrador e pelas interpretações dos
+                    jogadores.</p>
+
+                <p>Nesse ambiente imaginário, a colaboração é a palavra de ordem. Não existe um "vencedor" no sentido
+                    competitivo tradicional; o objetivo principal é construir uma narrativa memorável. Se os heróis
+                    conseguem derrotar o dragão ou se acabam fugindo para lutar outro dia, o que importa é a jornada e
+                    as escolhas feitas ao longo do caminho, que tornam cada sessão de jogo única.</p>
+
+                <p>Para que essa história tenha coerência, o grupo utiliza sistemas de regras e dados. Esses elementos
+                    servem para simular o "fator sorte" e as capacidades físicas ou mentais dos personagens. Quando um
+                    jogador decide que seu personagem vai saltar um precipício, o Teatro da Mente cria a cena, mas o
+                    dado decide se ele alcançou a outra margem ou se a história tomará um rumo inesperado e perigoso.
+                </p>
+
+                <p>Em resumo, jogar RPG é sentar-se ao redor de uma mesa (ou em uma sala virtual) para dar vida a um
+                    roteiro que ainda não foi escrito. É uma mistura de teatro improvisado, jogo de estratégia e
+                    narração de histórias, onde o único limite real é a criatividade dos participantes. Prepare seus
+                    dados, abra sua mente e esteja pronto para ser quem você quiser.</p>
+            </article>
+        </section>
+        <section><!--Os papéis dentro do RPG-->
+            <article>
+                <h3>Divisão de Papéis (Os Protagonistas)</h3>
+                <h4>Os Protagonistas: Quem dá vida ao jogo?</h4>
+                <p>Para que uma partida de RPG aconteça, é necessário que os participantes assumam papéis distintos, mas
+                    que se complementam perfeitamente. Imagine que o jogo é uma peça de teatro onde um participante
+                    escreve o cenário e os desafios em tempo real, enquanto os outros interpretam os personagens
+                    principais sem um roteiro fixo.</p>
+
+                <h4>O Mestre (ou Narrador)</h4>
+                <p>O Mestre é o arquiteto do universo. Ele não joga "contra" os jogadores, mas sim "para" os jogadores.
+                    Sua função é descrever os ambientes, interpretar os personagens coadjuvantes (vilões, taberneiros,
+                    dragões) e apresentar os dilemas que o grupo deve enfrentar. Além disso, o Mestre atua como um juiz
+                    imparcial, aplicando as regras do sistema escolhido para garantir que o jogo seja justo e
+                    emocionante.</p>
+
+                <p>Como bem define um dos conceitos mais famosos entre os entusiastas:</p>
+                <blockquote>"O Mestre de RPG é o deus de um mundo particular, o autor de uma saga inacabada e o melhor
+                    amigo de quem busca uma boa aventura."</blockquote> <!--Tipo de citação em bloco-->
+
+                <h4>Os Jogadores</h4>
+                <p>Se o Mestre constrói o palco, os Jogadores são as estrelas do show. Cada jogador cria e controla um
+                    Personagem Jogador (PJ), definindo sua personalidade, história de origem, motivações e habilidades
+                    especiais. Diferente de um protagonista de livro que segue o que o autor escreveu, o jogador tem
+                    total liberdade de escolha.</p>
+
+                <h4>Os jogadores são responsáveis por:</h4>
+                <ul><!--Lista desordenada-->
+                    <li>Tomar decisões: Escolher entre investigar uma caverna sombria ou negociar com um guarda.</li>
+                    <li>Interpretar (Roleplay): Falar e agir de acordo com a personalidade do seu personagem.</li>
+                    <li>Moldar a trama: Suas ações podem mudar completamente o destino do mundo criado pelo Mestre,
+                        transformando uma simples missão em uma lenda inesquecível.</li>
+                </ul>
+            </article>
+        </section>
+        <section><!--Equipamentos dentro de um jogo de RPG-->
+            <article>
+                <h3>O Arsenal do Jogador (Equipamentos)</h3>
+                <p>Utilização de listas para apresentar os itens fundamentais:</p>
+                <ul>
+                    <li><strong>Poliedrais:</strong> (D4 até o D20)</li>
+                    <li><strong>Ficha de Personagem:</strong> Onde residem as estatísticas e habilidades</li>
+                    <li><strong>Livros de Regras:</strong> Onde as "leis" do universo estão registradas.</li>
+                    <li><strong>Apoio Visual:</strong> Menção opcional a grids, mapas e miniaturas.</li>
+                </ul>
+            </article>
+        </section>
+        <section><!--Tabela explicativa de turno de jogo-->
+            <article>
+                <h3>Anatomia de uma Jogada (Exemplo Prático)</h3>
+                <p>Para entender como a liberdade do "Teatro da Mente" se encontra com as regras do sistema, vejamos um
+                    exemplo de uma rodada de jogo. Note como a história flui através do diálogo entre o Mestre e o
+                    Jogador, com o dado servindo como o árbitro final.</p>
+                <h4>Exemplo de Turno de Jogo</h4>
+                <table border="12">
+                    <th>Cenário (Descrição do Mestre)</th>
+                    <th>Ação (Intenção do Jogador)</th>
+                    <th>Resolução (Dado e Consequência)</th>
+
+                    <tr>
+                        <td>"Vocês chegam diante de uma pesada porta de ferro reforçada. Não há fechaduras visíveis,
+                            apenas uma inscrição rúnica que brilha fracamente em azul."</td>
+                        <td>"Meu personagem, o Guerreiro, tenta forçar a porta usando seu ombro e toda a sua força
+                            física."</td>
+                        <td><strong>Resultado: 18 (Sucesso):</strong> Com um estrondo, as dobradiças cedem e a porta se
+                            abre, revelando o tesouro guardado.</td>
+                    </tr>
+                    <tr>
+                        <td>"Ao entrar na sala, um guarda esqueleto se levanta e empunha uma espada enferrujada,
+                            bloqueando seu caminho."</td>
+                        <td>"Eu tento convencer o esqueleto de que somos seus aliados e que ele deve nos deixar passar."
+                        </td>
+                        <td><strong>Resultado: 3 (Falha Crítica):</strong>O esqueleto não possui mente para entender
+                            palavras; ele avança e ataca imediatamente!</td>
+                    </tr>
+                    <tr>
+                        <td>"O esqueleto desfere um golpe lateral. Você precisa agir rápido para não ser atingido!"</td>
+                        <td>"Eu uso meu escudo para bloquear o ataque e tento desarmá-lo com um movimento de
+                            contra-ataque."</td>
+                        <td><strong>Resultado: 12 (Sucesso Marginal):</strong>Você bloqueia o dano, mas o esqueleto
+                            continua firme com a espada em mãos.</td>
+                    </tr>
+                </table>
+            </article>
+        </section>
+        <section><!--Diferentes tipos de estilos de RPG-->
+            <article>
+                <h3>Mergulhando no Multiverso: Referências e Comunidade</h3>
+                <p>O RPG é um hobby vasto que abrange inúmeros gêneros e estilos. Não importa se você prefere a
+                    magia dos dragões, a tecnologia decadente do futuro ou o suspense de uma investigação de terror;
+                    sempre haverá um sistema perfeito para o seu grupo.</p>
+
+                <h4>Explorando Gêneros</h4>
+                <p>No seu portal, você encontrará representações visuais dos três pilares do RPG moderno:</p>
+                <ul>
+                    <li><strong>Fantasia Medieval:</strong>Onde tudo começou. Espadas, feitiçaria e exploração de
+                        masmorras;</li>
+                    <li><strong>Cyberpunk:</strong>Um futuro distópico de "alta tecnologia e baixa qualidade de
+                        vida", focado em hackers e megacorporações;</li>
+                    <li><strong>Terror e Investigação:</strong>Inspirado em obras de H.P. Lovecraft e contos de
+                        mistério, onde o foco é a sobrevivência e a sanidade.</li>
+                </ul>
+            </article>
+        </section>
+        <section><!--Links para aprender mais sobre o conteúdo-->
+            <article>
+                <h3>Onde Assistir e Aprender</h3>
+                <p>Se você quer ver como profissionais e grandes entusiastas jogam, recomendamos os seguintes canais e
+                    comunidades que são referências globais e nacionais:</p>
+                <ul><!--Apresentação de links para abertura em outra aba (target="_blank")-->
+                    <li><a href="https://www.critrole.com/" target="_blank">Critical Role:</a>O maior canal de RPG do
+                        mundo, onde
+                        dubladores profissionais interpretam campanhas épicas.</li>
+                    <li><a href="https://jovemnerd.com.br/" target="_blank">Jovem Nerd (Nerdcast RPG):</a>Referência
+                        absoluta no Brasil,
+                        com episódios especiais que elevaram a produção de áudio drama de RPG a um novo nível.</li>
+                    <li><a href="https://jamboeditora.com.br/" target="_blank">Tormenta (Jambô Editora):</a>Conheça o
+                        maior cenário de
+                        RPG brasileiro, com uma comunidade ativa e livros de altíssima qualidade.</li>
+                    <li><a href="https://roll20.net/" target="_blank">Roll20:</a>Uma das plataformas mais utilizadas
+                        para jogar RPG
+                        online, com ferramentas que facilitam a vida de mestres e jogadores.</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+</body><br>
+<footer><hr>
+    <p>Site criado a partir da estrutura de marcação HTML5. Foram utilizados dados gerados por Inteligência Artificial
+        para criação dos conteúdos e informações apresentadas.<br> Destaca-se que o objetivo de criação desse site é o
+        treino de aplicação da estrutura básica de HTML.</p>
+    <P>Primeira versão do site criada em 15/02/2026:</P>
+    <ul>
+        <li>Estrutura básica de HTML;</li>
+        <li>Definição do conteúdo gerado e links para sites.</li>
+    </ul>
+    <p>Desenvolvido por:<br><strong>Wendel Spargoli</strong></p>
+</footer>
+
+</html>
